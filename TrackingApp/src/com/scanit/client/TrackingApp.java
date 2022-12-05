@@ -7,7 +7,7 @@ import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 
 import com.google.gwt.user.client.Window;
-
+import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.DialogBox;
 import com.google.gwt.user.client.ui.HasHorizontalAlignment;
@@ -24,10 +24,12 @@ import com.scanit.server.LoginServiceImpl;
 public class TrackingApp implements EntryPoint,ClickHandler {
 	
 	private LoginServiceAsync loginServiceAsync=GWT.create(LoginServiceImpl.class);
+	private Button sendButton;
+	private TextBox nameField;
 	
 	public void onModuleLoad() {
-		final Button sendButton = new Button("Send");
-		final TextBox nameField = new TextBox();
+		sendButton = new Button("Send");
+		TextBox nameField = new TextBox();
 		nameField.setText("Scan IT  User");		
 
 		// We can add style names to widgets
@@ -57,7 +59,21 @@ public class TrackingApp implements EntryPoint,ClickHandler {
 	@Override
 	public void onClick(ClickEvent event) {
 		// TODO Auto-generated method stub
-		
+		loginServiceAsync.showMessage(nameField.getText(), new AsyncCallback<String>() {
+
+			@Override
+			public void onFailure(Throwable caught) {
+				// TODO Auto-generated method stub
+				Window.alert("Error occurred "+caught.getMessage());
+			}
+
+			@Override
+			public void onSuccess(String result) {
+				// TODO Auto-generated method stub
+				Window.alert("Welcome "+nameField.getText()+"!!!");
+			}
+			
+		});
 	}
 }
 
