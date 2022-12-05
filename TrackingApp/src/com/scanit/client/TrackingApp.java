@@ -27,12 +27,14 @@ public class TrackingApp implements EntryPoint,ClickHandler {
 	private final LoginServiceAsync loginServiceAsync=GWT.create(LoginService.class);
 	private Button sendButton;
 	private TextBox nameField;
+	private TextBox passwordField;
 	private Image image;
 	public void onModuleLoad() {
 		sendButton = new Button("Send");
 		nameField = new TextBox();
-		nameField.setText("Scan IT  User");		
-        image=new Image();
+		nameField.setText("Scan IT  User");	
+		passwordField=new TextBox();
+		image=new Image();
         String imagePath = "/images/logo.jpeg";
         image.setUrl(imagePath);
 		 
@@ -56,6 +58,7 @@ public class TrackingApp implements EntryPoint,ClickHandler {
 		// Add the nameField and sendButton to the RootPanel
 		// Use RootPanel.get() to get the entire body element
 		RootPanel.get("nameFieldContainer").add(nameField);
+		RootPanel.get("passwordFieldContainer").add(passwordField);
 		RootPanel.get("sendButtonContainer").add(sendButton);
 		RootPanel.get("imageContainer").add(image);
 		
@@ -64,7 +67,7 @@ public class TrackingApp implements EntryPoint,ClickHandler {
 	@Override
 	public void onClick(ClickEvent event) {
 		// TODO Auto-generated method stub
-		loginServiceAsync.showMessage(nameField.getText(), new AsyncCallback<String>() {
+		loginServiceAsync.showMessage(nameField.getText(),passwordField.getText(), new AsyncCallback<String>() {
 
 			@Override
 			public void onFailure(Throwable caught) {
@@ -75,7 +78,7 @@ public class TrackingApp implements EntryPoint,ClickHandler {
 			@Override
 			public void onSuccess(String result) {
 				// TODO Auto-generated method stub
-				Window.alert("Welcome "+nameField.getText()+"!!!");
+				Window.alert("Welcome "+nameField.getText()+"having password"+passwordField.getText());
 			}
 			
 		});

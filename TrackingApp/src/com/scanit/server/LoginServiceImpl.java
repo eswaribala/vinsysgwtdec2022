@@ -6,9 +6,9 @@ import com.scanit.client.LoginService;
 public class LoginServiceImpl extends RemoteServiceServlet implements LoginService{
 
 	@Override
-	public String showMessage(String name) throws IllegalArgumentException {
+	public String showMessage(String name,String password) throws IllegalArgumentException {
 		// TODO Auto-generated method stub
-		return "Welcome"+name+"!!!";
+		return "Welcome"+name+"having password"+password;
 	}
 
 }
