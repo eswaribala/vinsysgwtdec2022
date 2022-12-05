@@ -1,2 +1,3 @@
 # Module trackingapp
 # RPC service class, partial path of RPC policy file
+com.scanit.client.LoginService, 9DFA8A3E8733B4ED59AB677ED837DDFA.gwt.rpc

@@ -4023,3 +4023,882 @@ GIF89a  €ÿ ÿÿÿ   ,       D ;
 !ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 15:56:04.638
 !MESSAGE Analytics ping response: 200: OK
 GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:22.882
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:22.883
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:22.943
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:24.892
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:24.892
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:24.937
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:25.898
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:25.904
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:25.948
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:27.909
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:27.910
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:27.952
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:30.419
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:30.419
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:30.458
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:31.930
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:31.931
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:31.972
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:33.439
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:33.440
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:33.484
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.221
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.222
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.277
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.901
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.901
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.940
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.943
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.943
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:34.998
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:37.098
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:37.099
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:37.142
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:37.966
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:37.966
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:38.012
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:38.966
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:38.967
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.013
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.927
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.928
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.970
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.977
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:39.978
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:03:40.018
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:08.515
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:08.516
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:08.573
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:09.724
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:09.724
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:09.777
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.492
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.493
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.520
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.521
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.534
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:10.566
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.552
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.553
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.599
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.937
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.937
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:13.979
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.518
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.519
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.543
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.544
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.571
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:04:14.589
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:05.142
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:05.142
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:05.238
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:34.054
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:34.055
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:10:34.113
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2022-12-05 16:11:28.963
+!MESSAGE GWT compilation failed
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:11:29.123
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:11:29.124
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:11:29.193
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.500
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.500
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.585
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.880
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.881
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:54.941
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:55.521
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:55.521
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:14:55.565
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2022-12-05 16:15:34.092
+!MESSAGE GWT compilation failed
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:03.968
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:03.969
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.030
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.160
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.161
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.234
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.988
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:04.989
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:05.043
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.109
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.109
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.170
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.576
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.576
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:32.624
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:38.097
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:38.098
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:38.166
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:40.120
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:40.120
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:40.164
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:41.141
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:41.141
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:16:41.186
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2022-12-05 16:17:36.367
+!MESSAGE GWT compilation failed
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.103
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.103
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.167
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.738
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.739
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:17:46.782
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:46.572
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:46.573
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:46.645
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:47.069
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:47.069
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:47.112
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:48.082
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:48.082
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 16:20:48.124
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:16.244
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:16.279
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:16.346
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:25.985
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:25.985
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:17:26.039
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:18:24.565
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:18:24.565
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:18:24.642
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:23:45.517
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:23:45.517
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:23:45.639
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:24:16.575
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:24:16.575
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:24:16.627
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:32.624
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:32.625
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:32.689
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:42.154
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:42.154
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:42.206
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:45.712
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:45.712
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:45.778
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:46.760
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:46.761
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:46.805
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:47.749
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:47.754
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:47.795
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:52.404
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:52.405
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:52.450
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:53.289
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:53.290
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:53.338
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.174
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.174
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.241
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.835
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.836
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:25:54.879
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:02.874
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:02.875
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:02.930
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:07.406
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:07.406
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:07.459
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:09.442
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:09.445
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:09.490
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:10.472
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:10.473
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:10.530
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:13.504
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:13.505
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:13.554
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:16.525
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:16.526
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:16.574
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:18.542
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:18.543
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:18.583
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:20.060
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:20.060
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:20.104
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.076
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.117
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.162
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.304
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.306
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:24.357
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:25.093
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:25.094
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:25.141
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:33.127
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:33.128
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:33.187
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:35.146
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:35.146
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:35.186
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:36.671
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:36.671
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:36.713
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:40.465
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:40.479
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:40.535
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:41.695
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:41.696
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:41.741
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:44.221
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:44.221
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:44.270
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:49.748
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:49.749
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:49.801
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:50.423
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:50.423
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:50.472
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:51.276
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:51.277
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:26:51.336
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:03.309
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:03.309
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:03.378
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:04.599
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:04.599
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:04.645
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:05.331
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:05.331
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:27:05.376
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:29:22.111
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:29:22.111
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:29:22.183
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:30.109
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:30.110
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:30.167
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:33.624
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:33.624
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:33.673
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:34.390
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:34.390
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:34.441
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:35.163
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:35.163
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:35.230
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.190
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.190
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.242
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.607
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.608
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:39.657
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:40.208
+!MESSAGE Sending POST request to Analytics: {cd1=org.eclipse.epp.package.jee.product, cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0, cd3=3.14.0.v20210215-0934, t=event, cd6=GWT 2.10.0, v=1, ea=GWT_COMPILATION, an=GWT Eclipse Plugin, tid=UA-62291716-1, ec=com.gwtplugins.gdt.eclipse.suite.update, cd10=1670143050332, cid=1670143050332}
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:40.208
+!MESSAGE Analytics ping request parameters: cd1=org.eclipse.epp.package.jee.product&cd4=com.gwtplugins.eclipse.suite.v3.feature_0.0.0.0&cd3=3.14.0.v20210215-0934&t=event&cd6=GWT%202.10.0&v=1&ea=GWT_COMPILATION&an=GWT%20Eclipse%20Plugin&tid=UA-62291716-1&ec=com.gwtplugins.gdt.eclipse.suite.update&cd10=1670143050332&cid=1670143050332
+
+!ENTRY com.gwtplugins.gdt.eclipse.suite.update 1 0 2022-12-05 17:30:40.269
+!MESSAGE Analytics ping response: 200: OK
+GIF89a  €ÿ ÿÿÿ   ,       D ;

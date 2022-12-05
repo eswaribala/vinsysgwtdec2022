@@ -1,0 +1,2 @@
+serviceClass: com.scanit.client.LoginService
+path: 9DFA8A3E8733B4ED59AB677ED837DDFA.gwt.rpc
