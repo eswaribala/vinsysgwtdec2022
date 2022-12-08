@@ -2,6 +2,7 @@ package com.scanit.server;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.SQLException;
 import java.text.ParseException;
 import java.util.Enumeration;
 
@@ -12,6 +13,8 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.google.gwt.core.client.GWT;
 import com.ibm.icu.text.SimpleDateFormat;
+import com.scanit.server.dao.CustomerDao;
+import com.scanit.server.dao.CustomerImpl;
 import com.scanit.server.models.Customer;
 import com.scanit.server.models.Gender;
 
@@ -53,8 +56,24 @@ public class RegistrationServlet extends HttpServlet{
 		}
 		
 		PrintWriter out =resp.getWriter();
-		resp.setContentType("text/Html");	
-		out.println(customer.getDob().toLocaleString()+customer.getGender());
+		resp.setContentType("text/Html");
+		String message=null;		
+		/*
+		CustomerDao customerDao=new CustomerImpl();
+		try {
+			customerDao.addCustomer(customer);
+			message="Customer Created";
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			System.out.println(e.getMessage());
+			message=e.getMessage();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			System.out.println(e.getMessage());
+			message=e.getMessage();
+		}	
+			*/		
+		out.println(message);
 	
 	}
 	

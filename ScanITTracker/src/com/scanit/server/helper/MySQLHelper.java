@@ -15,7 +15,7 @@ public class MySQLHelper {
 		String url=rb.getString("mysqlUrl");
 		String userName=rb.getString("mysqlUserName");
 		String password=rb.getString("mysqlPassword");
-		String driver=rb.getString("driver");
+		String driver=rb.getString("mysqlDriver");
 		
 		Class.forName(driver);
 		return DriverManager.getConnection(url, userName, password);

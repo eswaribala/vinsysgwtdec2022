@@ -25,6 +25,7 @@ import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Image;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.PasswordTextBox;
+import com.google.gwt.user.client.ui.PopupPanel;
 import com.google.gwt.user.client.ui.RadioButton;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
@@ -68,55 +69,13 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 	private final LoginServiceAsync loginServiceAsync=GWT.create(LoginService.class);
  	
 	public void onModuleLoad() {
-		userNameLbl=new Label();
-		userNameLbl.setText("User Name");
-		passwordLbl=new Label();
-		passwordLbl.setText("Password");
 		
-		userNameTextBox=new TextBox();
-		userNameTextBox.setPixelSize(150, 20);
-		passwordTextBox=new PasswordTextBox();
-		passwordTextBox.setPixelSize(150, 20);
-		loginButton=new Button();
-		loginButton.setText("Login");
-		loginButton.setStyleName("sendButton");
-		loginButton.addClickHandler(this);
-		
-		regButton=new Button();
-		regButton.setText("Signup");
-		regButton.setStyleName("regButton");
-		regButton.addClickHandler(new ClickHandler() {
-
-			@Override
-			public void onClick(ClickEvent event) {
-				// TODO Auto-generated method stub
 				
-				loginPanel.clear();	
-				
-				
-				RootPanel.get("loginContainer").add(createRegPanel());
-				
-			}
-			
-		});
-		
-		
 		image=new Image();
 		String path="/images/logo.jpeg";
 		image.setUrl(path);
 		image.setPixelSize(100, 100);
-		
-		loginGrid=new Grid(3,2);
-		loginGrid.setWidget(0, 0, userNameLbl);
-		loginGrid.setWidget(0, 1, userNameTextBox);
-		loginGrid.setWidget(1, 0, passwordLbl);
-		loginGrid.setWidget(1, 1, passwordTextBox);
-		loginGrid.setWidget(2, 1, loginButton);
-		loginGrid.setWidget(2, 0, regButton);
-		
-		
-		loginPanel=new VerticalPanel();
-		loginPanel.add(loginGrid);
+				
        
         advLbl=new Label();
         advLbl.setText("We are ScanIT");
@@ -136,7 +95,7 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 		
 		RootPanel.get("logoContainer").add(image);
 		RootPanel.get("advContainer").add(advLbl);
-        RootPanel.get("loginContainer").add(loginPanel);
+        RootPanel.get("loginContainer").add(createLoginPanel());
        
         
 		
@@ -311,12 +270,41 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 		regFormPanel.setAction(GWT.getModuleBaseURL()+"register");
 		regFormPanel.setMethod(FormPanel.METHOD_POST);
 		
+		PopupPanel popupPanel=new PopupPanel();
+		Label resultLbl=new Label();
+		Button popupClose=new Button();
+		popupClose.setText("Close");
+		
+		popupPanel.setPopupPosition(300, 50);		
+		
+		popupClose.addClickHandler(new ClickHandler() {
+
+			@Override
+			public void onClick(ClickEvent event) {
+				// TODO Auto-generated method stub
+				popupPanel.clear();
+				regFormPanel.clear();
+				loginPanel.setVisible(true);
+				RootPanel.get("loginContainer").add(createLoginPanel());
+			}
+			
+		});
+		
+		VerticalPanel popupVerticalPanel=new VerticalPanel();
+		popupVerticalPanel.add(resultLbl);
+		popupVerticalPanel.add(popupClose);
+		
+		
+		
 		regFormPanel.addSubmitCompleteHandler(new SubmitCompleteHandler() {
 
 			@Override
 			public void onSubmitComplete(SubmitCompleteEvent event) {
 				// TODO Auto-generated method stub
-				Window.alert(event.getResults().toString());
+				//Window.alert(event.getResults().toString());
+				resultLbl.setText(event.getResults().toString());
+				popupPanel.add(popupVerticalPanel);
+				popupPanel.show();
 			}
 			
 		});
@@ -329,6 +317,57 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 		
 	}
 	
+	
+	
+	
+	public VerticalPanel createLoginPanel() {
+		
+		
+		userNameLbl=new Label();
+		userNameLbl.setText("User Name");
+		passwordLbl=new Label();
+		passwordLbl.setText("Password");
+		
+		userNameTextBox=new TextBox();
+		userNameTextBox.setPixelSize(150, 20);
+		passwordTextBox=new PasswordTextBox();
+		passwordTextBox.setPixelSize(150, 20);
+		loginButton=new Button();
+		loginButton.setText("Login");
+		loginButton.setStyleName("sendButton");
+		loginButton.addClickHandler(this);
+		
+		regButton=new Button();
+		regButton.setText("Signup");
+		regButton.setStyleName("regButton");
+		regButton.addClickHandler(new ClickHandler() {
+
+			@Override
+			public void onClick(ClickEvent event) {
+				// TODO Auto-generated method stub
+				
+				loginPanel.clear();	
+								
+				RootPanel.get("loginContainer").add(createRegPanel());
+				
+			}
+			
+		});
+		
+		loginGrid=new Grid(3,2);
+		loginGrid.setWidget(0, 0, userNameLbl);
+		loginGrid.setWidget(0, 1, userNameTextBox);
+		loginGrid.setWidget(1, 0, passwordLbl);
+		loginGrid.setWidget(1, 1, passwordTextBox);
+		loginGrid.setWidget(2, 1, loginButton);
+		loginGrid.setWidget(2, 0, regButton);
+		
+		
+		loginPanel=new VerticalPanel();
+		loginPanel.add(loginGrid);
+		
+		return loginPanel;
+	}
 	
 	
 }

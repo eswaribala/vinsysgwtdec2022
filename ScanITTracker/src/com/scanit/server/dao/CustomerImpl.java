@@ -1,6 +1,7 @@
 package com.scanit.server.dao;
 
 import java.sql.Connection;
+import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
@@ -23,7 +24,8 @@ public class CustomerImpl implements CustomerDao{
 		pre.setString(1, customer.getUserName());
 		pre.setString(2, customer.getPassword());
 		pre.setString(3,  customer.getEmail());
-		pre.setDate(4, (java.sql.Date)customer.getDob());
+		pre.setDate(4, new Date(customer.getDob().getYear(),
+				customer.getDob().getMonth(),customer.getDob().getDate()));
 		pre.setLong(5, customer.getMobileNo());
 		pre.setString(6, customer.getGender().toString());
 		int row=pre.executeUpdate();	
