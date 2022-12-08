@@ -133,10 +133,16 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 							@Override
 							public void onClick(ClickEvent event) {
 								// TODO Auto-generated method stub
+								
+							  if((resultLabel.getText().contains("Not"))||(resultLabel.getText().contains("invalid"))) {	
+								dialogBox.hide();
+							  }
+							  else
+							  {
 								dialogBox.hide();
 								loginPanel.clear();
 								RootPanel.get("menuContainer").add(createMenuBar());
-								
+							  }
 								
 							}
 							
@@ -507,6 +513,27 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 			
 		});
        
+       MenuBar exitMenu=new MenuBar(true);
+		
+       exitMenu.setAutoOpen(false);
+       exitMenu.setWidth("100px");
+       exitMenu.setAnimationEnabled(true);
+       
+       exitMenu.addItem("Logout",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				//Window.alert("24 Hrs Service");
+				
+				trackerMenuBar.setVisible(false);
+				trackerMenuBar.closeAllChildren(true);
+				trackerMenuBar.clearItems();
+				RootPanel.get("loginContainer").add(createLoginPanel());
+			}
+			
+		});
+       
        
        trackerMenuBar.addItem(new MenuItem("Service Guide",serviceGuideMenu));
        trackerMenuBar.addSeparator();
@@ -517,6 +544,7 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
        trackerMenuBar.addItem(new MenuItem("About Us",aboutusMenu));
        trackerMenuBar.addSeparator();
        trackerMenuBar.addItem(new MenuItem("Contact Us",contactusMenu));
+       trackerMenuBar.addItem(new MenuItem("Exit",exitMenu));
        return trackerMenuBar;
 		
 	}
