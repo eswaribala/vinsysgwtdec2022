@@ -58,7 +58,7 @@ public class RegistrationServlet extends HttpServlet{
 		PrintWriter out =resp.getWriter();
 		resp.setContentType("text/Html");
 		String message=null;		
-		/*
+		
 		CustomerDao customerDao=new CustomerImpl();
 		try {
 			customerDao.addCustomer(customer);
@@ -72,7 +72,7 @@ public class RegistrationServlet extends HttpServlet{
 			System.out.println(e.getMessage());
 			message=e.getMessage();
 		}	
-			*/		
+					
 		out.println(message);
 	
 	}

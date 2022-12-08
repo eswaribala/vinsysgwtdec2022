@@ -12,6 +12,7 @@ import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
 import com.google.gwt.event.logical.shared.ValueChangeHandler;
+import com.google.gwt.user.client.Command;
 import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.rpc.AsyncCallback;
@@ -24,6 +25,8 @@ import com.google.gwt.user.client.ui.Grid;
 import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Image;
 import com.google.gwt.user.client.ui.Label;
+import com.google.gwt.user.client.ui.MenuBar;
+import com.google.gwt.user.client.ui.MenuItem;
 import com.google.gwt.user.client.ui.PasswordTextBox;
 import com.google.gwt.user.client.ui.PopupPanel;
 import com.google.gwt.user.client.ui.RadioButton;
@@ -131,6 +134,10 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 							public void onClick(ClickEvent event) {
 								// TODO Auto-generated method stub
 								dialogBox.hide();
+								loginPanel.clear();
+								RootPanel.get("menuContainer").add(createMenuBar());
+								
+								
 							}
 							
 						});						
@@ -275,7 +282,7 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 		Button popupClose=new Button();
 		popupClose.setText("Close");
 		
-		popupPanel.setPopupPosition(300, 50);		
+		popupPanel.setPopupPosition(400, 100);		
 		
 		popupClose.addClickHandler(new ClickHandler() {
 
@@ -368,6 +375,152 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 		
 		return loginPanel;
 	}
+	
+	
+	public MenuBar createMenuBar() {
+		MenuBar trackerMenuBar=new MenuBar();
+		trackerMenuBar.setAutoOpen(true);
+		trackerMenuBar.setWidth("800px");
+		trackerMenuBar.setAnimationEnabled(true);
+		MenuBar serviceGuideMenu=new MenuBar(true);
+		
+		serviceGuideMenu.setAutoOpen(false);
+		serviceGuideMenu.setWidth("100px");
+		
+		serviceGuideMenu.setAnimationEnabled(true);
+		
+		serviceGuideMenu.addItem("Airport to Airport",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Airport to Airport");
+			}
+			
+		});
+		serviceGuideMenu.addSeparator();
+		serviceGuideMenu.addItem("Smart Box",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Smart Box");
+			}
+			
+		});
+		serviceGuideMenu.addSeparator();
+		serviceGuideMenu.addItem("Data Apex",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Data Apex");
+			}
+			
+		});
+		
+        MenuBar businessIntegrationsMenu=new MenuBar(true);
+		
+        businessIntegrationsMenu.setAutoOpen(false);
+        businessIntegrationsMenu.setWidth("100px");
+        businessIntegrationsMenu.setAnimationEnabled(true);
+		
+        
+       MenuBar careersMenu=new MenuBar(true);
+		
+       careersMenu.setAutoOpen(false);
+       careersMenu.setWidth("100px");
+       careersMenu.setAnimationEnabled(true);
+       
+       MenuBar aboutusMenu=new MenuBar(true);
+		
+       aboutusMenu.setAutoOpen(false);
+       aboutusMenu.setWidth("100px");
+       aboutusMenu.setAnimationEnabled(true);
+       
+       aboutusMenu.addItem("Blue Dart",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Blue Dart");
+			}
+			
+		});
+       aboutusMenu.addSeparator();
+       aboutusMenu.addItem("Fact Sheet",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Fact Sheet");
+			}
+			
+		});
+       aboutusMenu.addSeparator();
+       aboutusMenu.addItem("Mile Stones",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("MileStones");
+			}
+			
+		});
+       
+       
+       
+       MenuBar contactusMenu=new MenuBar(true);
+		
+       contactusMenu.setAutoOpen(false);
+       contactusMenu.setWidth("100px");
+       contactusMenu.setAnimationEnabled(true);
+       
+       contactusMenu.addItem("Call Us",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Call US");
+			}
+			
+		});
+       contactusMenu.addSeparator();
+       contactusMenu.addItem("Write to Us",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("Write to US");
+			}
+			
+		});
+       
+       contactusMenu.addSeparator();
+       contactusMenu.addItem("24 Hrs Service",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				Window.alert("24 Hrs Service");
+			}
+			
+		});
+       
+       
+       trackerMenuBar.addItem(new MenuItem("Service Guide",serviceGuideMenu));
+       trackerMenuBar.addSeparator();
+       trackerMenuBar.addItem(new MenuItem("Business Integrations",businessIntegrationsMenu));
+       trackerMenuBar.addSeparator();
+       trackerMenuBar.addItem(new MenuItem("Careers",careersMenu));
+       trackerMenuBar.addSeparator();
+       trackerMenuBar.addItem(new MenuItem("About Us",aboutusMenu));
+       trackerMenuBar.addSeparator();
+       trackerMenuBar.addItem(new MenuItem("Contact Us",contactusMenu));
+       return trackerMenuBar;
+		
+	}
+	
 	
 	
 }

@@ -10,6 +10,6 @@ public interface CustomerDao {
 	
 	Customer getCustomerById(long mobileNo);
 	
-	Customer getCustomerByUserNamePassword(String userName,String password);
+	int getCustomerByUserNamePassword(String userName,String password) throws ClassNotFoundException, SQLException;
 
 }

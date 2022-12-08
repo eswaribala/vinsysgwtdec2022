@@ -3,6 +3,7 @@ package com.scanit.server.dao;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import com.scanit.server.helper.MySQLHelper;
@@ -12,7 +13,7 @@ public class CustomerImpl implements CustomerDao{
 
 	private static Connection conn;
 	private PreparedStatement pre;
-	
+	private ResultSet rs;
 	
 	@Override
 	public Customer addCustomer(Customer customer) throws ClassNotFoundException, SQLException {
@@ -42,9 +43,17 @@ public class CustomerImpl implements CustomerDao{
 	}
 
 	@Override
-	public Customer getCustomerByUserNamePassword(String userName, String password) {
+	public int getCustomerByUserNamePassword(String userName, String password) throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
-		return null;
+		
+		conn=MySQLHelper.getConnection();
+		pre=conn.prepareStatement("select count(*) as rowcount from customer where UserName=? and Password = ?");
+		pre.setString(1, userName);
+        pre.setString(2, password);
+        ResultSet rs= pre.executeQuery();
+		rs.next();
+		return rs.getInt("rowcount");
+	
 	}
 
 }
