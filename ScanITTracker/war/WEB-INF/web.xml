@@ -39,6 +39,20 @@
   </servlet-mapping>
   
   
+  
+  
+  <servlet>
+    <servlet-name>fileUploadServlet</servlet-name>
+    <servlet-class>com.scanit.server.FileUploadServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>fileUploadServlet</servlet-name>
+    <url-pattern>/scanittracker/upload</url-pattern>
+  </servlet-mapping>
+  
+  
+  
   <!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>ScanITTracker.html</welcome-file>

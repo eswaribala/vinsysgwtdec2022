@@ -10,10 +10,15 @@ import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.DialogBox;
+import com.google.gwt.user.client.ui.FileUpload;
+import com.google.gwt.user.client.ui.FormPanel;
+import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteEvent;
+import com.google.gwt.user.client.ui.HTML;
 import com.google.gwt.user.client.ui.HasHorizontalAlignment;
 import com.google.gwt.user.client.ui.Image;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
+import com.google.gwt.user.client.ui.TextArea;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.scanit.server.LoginServiceImpl;
@@ -22,66 +27,82 @@ import com.scanit.server.LoginServiceImpl;
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
-public class TrackingApp implements EntryPoint,ClickHandler {
-	
-	private final LoginServiceAsync loginServiceAsync=GWT.create(LoginService.class);
-	private Button sendButton;
-	private TextBox nameField;
-	private TextBox passwordField;
-	private Image image;
-	public void onModuleLoad() {
-		sendButton = new Button("Send");
-		nameField = new TextBox();
-		nameField.setText("Scan IT  User");	
-		passwordField=new TextBox();
-		image=new Image();
-        String imagePath = "/images/logo.jpeg";
-        image.setUrl(imagePath);
-		 
-		
-		// We can add style names to widgets
-		sendButton.addStyleName("sendButton");
-		sendButton.addClickHandler(this);
-		
-		/* client side call
-		sendButton.addClickHandler(new ClickHandler() {
+public class TrackingApp implements EntryPoint {
+	private static final String UPLOAD_ACTION_URL = GWT.getModuleBaseURL() + "upload";
 
-			@Override
-			public void onClick(ClickEvent event) {
-				// TODO Auto-generated method stub
-				Window.alert("Welcome "+nameField.getText()+"!!!");
-				 
-			}
-			
-		});
-       */
-		// Add the nameField and sendButton to the RootPanel
-		// Use RootPanel.get() to get the entire body element
-		RootPanel.get("nameFieldContainer").add(nameField);
-		RootPanel.get("passwordFieldContainer").add(passwordField);
-		RootPanel.get("sendButtonContainer").add(sendButton);
-		RootPanel.get("imageContainer").add(image);
-		
-	}
+	private FormPanel form;
+	private Label info;
+	private FileUpload fileupload;
+	private Button uploadFileBtn;
 
 	@Override
-	public void onClick(ClickEvent event) {
+	public void onModuleLoad() {
 		// TODO Auto-generated method stub
-		loginServiceAsync.showMessage(nameField.getText(),passwordField.getText(), new AsyncCallback<String>() {
+		init();
 
-			@Override
-			public void onFailure(Throwable caught) {
-				// TODO Auto-generated method stub
-				Window.alert("Error occurred "+caught.getMessage());
-			}
+	    uploadFileBtn.addClickHandler(new ClickHandler() {
+	        @Override
+	        public void onClick(ClickEvent event) {
+	            String filename = fileupload.getFilename();
 
-			@Override
-			public void onSuccess(String result) {
-				// TODO Auto-generated method stub
-				Window.alert("Welcome "+nameField.getText()+"having password"+passwordField.getText());
-			}
-			
-		});
+	            if(filename.length() == 0) {
+	                Window.alert("File Upload failed");
+	            } else if(filename.endsWith(".pdf")) {
+
+	                form.submit();          
+
+	            } else {
+	                Window.alert("File is not a pdf file");
+	            }
+	        }
+	    });
+
+
+	    form.addSubmitCompleteHandler(new FormPanel.SubmitCompleteHandler() {
+	        @Override
+	        public void onSubmitComplete(SubmitCompleteEvent event) {
+
+	            if(event.getResults().length() == 0) {
+	                Window.alert("Something went wrong - Try again");
+	            } else {
+	            	 Window.alert(event.getResults());               
+	            }
+	        }
+	    });
+
+
+	    VerticalPanel vp = new VerticalPanel();
+	    vp.add(info);
+	    vp.add(fileupload);
+	    vp.add(new HTML("<br>"));
+	    vp.add(uploadFileBtn);
+	   
+
+	    form.add(vp);
+	    RootPanel rp = RootPanel.get();
+	    rp.add(form);
 	}
+
+	private void init() {
+	    form = new FormPanel();
+	    form.setAction(UPLOAD_ACTION_URL);
+	    form.setEncoding(FormPanel.ENCODING_MULTIPART);
+	    form.setMethod(FormPanel.METHOD_POST);
+
+	    info = new Label("Choose a file");
+
+	    fileupload = new FileUpload();
+
+	    //Here I added a name to the fileuploader
+	    fileupload.setName("uploader");
+
+	    uploadFileBtn = new Button("Show Status");
+
+	    
+	}
+	
+	
+	
+	
 }
 

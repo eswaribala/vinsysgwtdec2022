@@ -5,19 +5,35 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Random;
+import java.util.ResourceBundle;
 
+import com.gargoylesoftware.htmlunit.HttpMethod;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
 import com.google.gwt.event.logical.shared.ValueChangeHandler;
+import com.google.gwt.http.client.Request;
+import com.google.gwt.http.client.RequestBuilder;
+import com.google.gwt.http.client.RequestCallback;
+import com.google.gwt.http.client.RequestException;
+import com.google.gwt.http.client.Response;
+import com.google.gwt.http.client.URL;
+import com.google.gwt.json.client.JSONArray;
+import com.google.gwt.json.client.JSONParser;
+import com.google.gwt.json.client.JSONValue;
+import com.google.gwt.user.cellview.client.CellTable;
+import com.google.gwt.user.cellview.client.SimplePager;
+import com.google.gwt.user.cellview.client.TextColumn;
 import com.google.gwt.user.client.Command;
 import com.google.gwt.user.client.Timer;
 import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.DialogBox;
+import com.google.gwt.user.client.ui.FileUpload;
+import com.google.gwt.user.client.ui.FlexTable;
 import com.google.gwt.user.client.ui.FormPanel;
 import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteEvent;
 import com.google.gwt.user.client.ui.FormPanel.SubmitCompleteHandler;
@@ -31,9 +47,15 @@ import com.google.gwt.user.client.ui.PasswordTextBox;
 import com.google.gwt.user.client.ui.PopupPanel;
 import com.google.gwt.user.client.ui.RadioButton;
 import com.google.gwt.user.client.ui.RootPanel;
+import com.google.gwt.user.client.ui.ScrollPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.google.gwt.user.datepicker.client.DatePicker;
+import com.google.gwt.view.client.ListDataProvider;
+import com.google.web.bindery.autobean.shared.AutoBean;
+import com.google.web.bindery.autobean.shared.AutoBeanCodex;
+import com.scanit.shared.Photo;
+import com.scanit.shared.PhotoFactory;
 
 
 /**
@@ -55,6 +77,11 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 	private RadioButton maleButton,femaleButton;
 	private FormPanel regFormPanel;
 	private static List<String> messages=new ArrayList<String>();
+	private VerticalPanel vp;
+	private FormPanel fileUploadPanel;
+	private ScrollPanel scrollPanel;
+	
+	private PhotoFactory photoFactory=GWT.create(PhotoFactory.class);
 	
 	static {
 		messages.add("Scan IT is India's Top 10 Company");
@@ -420,7 +447,17 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 			@Override
 			public void execute() {
 				// TODO Auto-generated method stub
-				Window.alert("Data Apex");
+				//Window.alert("Data Apex");
+				try {
+					
+					scrollPanel=new ScrollPanel();
+					scrollPanel.add(createRestTable());					
+					RootPanel.get().add(scrollPanel);
+				} catch (RequestException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
 			}
 			
 		});
@@ -437,6 +474,21 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
        careersMenu.setAutoOpen(false);
        careersMenu.setWidth("100px");
        careersMenu.setAnimationEnabled(true);
+       
+       careersMenu.addItem("Profile Upload",new Command() {
+
+			@Override
+			public void execute() {
+				// TODO Auto-generated method stub
+				
+				RootPanel.get("profileContainer").add(createFileUploadFormPanel());
+				//Window.alert("Profile Upload");
+			}
+			
+		});
+       
+       
+       
        
        MenuBar aboutusMenu=new MenuBar(true);
 		
@@ -527,6 +579,16 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
 				//Window.alert("24 Hrs Service");
 				
 				trackerMenuBar.setVisible(false);
+				if(scrollPanel!=null)
+			     	scrollPanel.setVisible(false);
+				if(vp!=null)
+			     	vp.setVisible(false);
+				if(fileUploadPanel!=null) {
+				 fileUploadPanel.clear();			
+				 fileUploadPanel.setVisible(true);
+				 RootPanel.get("profileContainer").clear();
+				 RootPanel.get("profileContainer").setVisible(false);
+				}
 				trackerMenuBar.closeAllChildren(true);
 				trackerMenuBar.clearItems();
 				RootPanel.get("loginContainer").add(createLoginPanel());
@@ -546,6 +608,221 @@ public class ScanITTracker implements EntryPoint,ClickHandler {
        trackerMenuBar.addItem(new MenuItem("Contact Us",contactusMenu));
        trackerMenuBar.addItem(new MenuItem("Exit",exitMenu));
        return trackerMenuBar;
+		
+	}
+	
+	
+	
+	public FormPanel createFileUploadFormPanel() {
+		
+		VerticalPanel vPanel=new VerticalPanel();
+		Label messageLbl=new Label();
+		messageLbl.setText("Upload Profile");
+		
+		FileUpload fileUpLoad=new FileUpload();	
+		fileUpLoad.setName("fileUpload");
+		
+		Button uploadBtn=new Button();
+		uploadBtn.setText("Upload");	
+		
+		HorizontalPanel horizontalPanel=new HorizontalPanel();
+		horizontalPanel.add(messageLbl);
+		horizontalPanel.add(fileUpLoad);
+		
+		vPanel.add(horizontalPanel);
+		vPanel.add(uploadBtn);		
+		
+		
+		fileUploadPanel =new FormPanel();
+		
+		fileUploadPanel.setAction(GWT.getModuleBaseURL()+"upload");
+		fileUploadPanel.setEncoding(FormPanel.ENCODING_MULTIPART);
+		fileUploadPanel.setMethod(FormPanel.METHOD_POST);		
+
+		fileUploadPanel.add(vPanel);
+		fileUploadPanel.setStyleName("borderStyle");
+		uploadBtn.addClickHandler(new ClickHandler() {
+
+			@Override
+			public void onClick(ClickEvent event) {
+				// TODO Auto-generated method stub
+				String fileName=fileUpLoad.getFilename();
+				if((fileName.length()>0) && fileName.endsWith("pdf"))			  	
+				    fileUploadPanel.submit();
+				else
+					Window.alert("File Not Submitted Error Occurred");
+			}
+			
+		});
+		
+		
+		fileUploadPanel.addSubmitCompleteHandler(new SubmitCompleteHandler() {
+
+			@Override
+			public void onSubmitComplete(SubmitCompleteEvent event) {
+				// TODO Auto-generated method stub
+				
+				Window.alert(event.getResults());
+			}
+			
+		});
+		return fileUploadPanel;
+		
+	}
+	
+	
+	public VerticalPanel createRestTable() throws RequestException {
+		//ResourceBundle rb=ResourceBundle.getBundle("com/scanit/shared/db");
+		String apiUrl="https://jsonplaceholder.typicode.com/photos";		
+		
+		vp=new VerticalPanel();
+		RequestBuilder requestBuilder=new 
+				RequestBuilder(RequestBuilder.GET,URL.encode(apiUrl));
+		
+		requestBuilder.sendRequest(null, new RequestCallback() {
+
+			@Override
+			public void onResponseReceived(Request request, Response response) {
+				// TODO Auto-generated method stub
+				List<Photo> photos=new ArrayList<Photo>();	
+				FlexTable flexTable=new FlexTable();
+				if(response.getStatusCode()==200) {
+				//	Window.alert(response.getText());
+					JSONValue jsonValue=JSONParser.parse(response.getText());
+					JSONArray jsonArray=jsonValue.isArray();
+					for(int i=0;i<jsonArray.size();i++)
+		    		  {
+		    		  if (jsonArray != null) {
+		    		    
+		    			  JSONValue item = jsonArray.get(i);
+		    			  AutoBean<Photo> bean = AutoBeanCodex
+	                             .decode(photoFactory, Photo.class, item.toString());
+		    			  //Window.alert(bean.as().getThumbnailUrl());
+		    			  photos.add(bean.as());	   			  
+		    		    
+		    		   } 					
+				    }
+					/*
+					int i=0,j=0;
+					for(Photo photo: photos) {
+						
+						
+							flexTable.setText(i, j, String.valueOf(photo.getAlbumId()));
+							flexTable.setText(i, j+1, String.valueOf(photo.getId()));
+					       flexTable.setText(i, j+2, photo.getTitle());
+							flexTable.setText(i, j+3, photo.getUrl());
+						    flexTable.setText(i, j+4, photo.getThumbnailUrl());
+						   j=0;
+						   i++;
+							
+					}
+					
+					vp.add(flexTable);
+					*/
+
+	    	    	CellTable<Photo> cellTable= createCellTable();
+	    	    	cellTable.setRowCount(photos.size());
+	    	    	cellTable.setRowData(photos);
+	    	    	 ListDataProvider<Photo> dataProvider = new ListDataProvider<Photo>();
+	    	    	    dataProvider.addDataDisplay(cellTable);
+	    	    	    dataProvider.setList(photos);   	    	
+	    	    	
+		    	
+	    	    	SimplePager pager = new SimplePager();
+	    	        pager.setDisplay(cellTable);
+	    	        pager.setPageSize(15); // 15 rows will be shown at a time
+	    	    	vp.add(cellTable);	    	    	
+	    	    	vp.add(pager);
+	    	    	
+					
+					
+				  }
+			    }	
+
+			@Override
+			public void onError(Request request, Throwable exception) {
+				// TODO Auto-generated method stub
+				Window.alert(exception.getMessage());
+			}
+			
+		});
+		
+		
+		return vp;
+		
+	}
+	
+	
+	
+	
+	public CellTable<Photo> createCellTable(){
+		
+		CellTable<Photo> cellTable=new CellTable<Photo>();
+		
+		TextColumn<Photo> albumId=new TextColumn<Photo>() {
+
+			@Override
+			public String getValue(Photo object) {
+				// TODO Auto-generated method stub
+				return String.valueOf(object.getAlbumId());
+			}
+			
+		};
+		
+		cellTable.addColumn(albumId,"Album Id");
+		
+		TextColumn<Photo> id=new TextColumn<Photo>() {
+
+			@Override
+			public String getValue(Photo object) {
+				// TODO Auto-generated method stub
+				return String.valueOf(object.getId());
+			}
+			
+		};
+		
+		cellTable.addColumn(id,"Id");
+		
+		TextColumn<Photo> title=new TextColumn<Photo>() {
+
+			@Override
+			public String getValue(Photo object) {
+				// TODO Auto-generated method stub
+				return object.getTitle();
+			}
+			
+		};
+		
+		cellTable.addColumn(title,"Title");
+		
+		
+		TextColumn<Photo> url=new TextColumn<Photo>() {
+
+			@Override
+			public String getValue(Photo object) {
+				// TODO Auto-generated method stub
+				return object.getUrl();
+			}
+			
+		};
+		
+		cellTable.addColumn(url,"Url");
+		
+
+		TextColumn<Photo> thumbnailUrl=new TextColumn<Photo>() {
+
+			@Override
+			public String getValue(Photo object) {
+				// TODO Auto-generated method stub
+				return object.getThumbnailUrl();
+			}
+			
+		};
+		
+		cellTable.addColumn(thumbnailUrl,"Thumbnail Url");
+		
+		return cellTable;
+		
 		
 	}
 	

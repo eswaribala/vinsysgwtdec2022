@@ -16,6 +16,17 @@
     <url-pattern>/trackingapp/welcome</url-pattern>
   </servlet-mapping>
   
+   <!-- Servlets -->
+  <servlet>
+    <servlet-name>uploadServlet</servlet-name>
+    <servlet-class>com.scanit.server.FileUploadServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>uploadServlet</servlet-name>
+    <url-pattern>/trackingapp/upload</url-pattern>
+  </servlet-mapping>
+  
   <!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>TrackingApp.html</welcome-file>
